@@ -57,9 +57,9 @@ Frontend:
 
 ---
 ## MultiRepo
-* The link of the repository for the backend:
+* The link of the repository for the backend: https://github.com/IsaacVil/Lovr_BackEnd
 * The backend will be in /backend
-* The link of the repository for the frontend:
+* The link of the repository for the frontend: https://github.com/IsaacVil/Lovr_FrontEnd
 * The frontend will be in /frontend
 
 ---
